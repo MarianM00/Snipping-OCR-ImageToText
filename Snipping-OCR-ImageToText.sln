@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Snipping-OCR-ImageToText", "Snipping-OCR-ImageToText\Snipping-OCR-ImageToText.csproj", "{ADF540FF-8E90-4632-887C-7DEF776DF927}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "OCRInstaller", "OCRInstaller\OCRInstaller.vdproj", "{82657840-96EE-4D70-8CB5-4AB359FF127D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADF540FF-8E90-4632-887C-7DEF776DF927}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADF540FF-8E90-4632-887C-7DEF776DF927}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADF540FF-8E90-4632-887C-7DEF776DF927}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{ADF540FF-8E90-4632-887C-7DEF776DF927}.Debug|x86.Build.0 = Debug|Any CPU
+		{ADF540FF-8E90-4632-887C-7DEF776DF927}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADF540FF-8E90-4632-887C-7DEF776DF927}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADF540FF-8E90-4632-887C-7DEF776DF927}.Release|x86.ActiveCfg = Release|Any CPU
+		{ADF540FF-8E90-4632-887C-7DEF776DF927}.Release|x86.Build.0 = Release|Any CPU
+		{82657840-96EE-4D70-8CB5-4AB359FF127D}.Debug|Any CPU.ActiveCfg = Debug
+		{82657840-96EE-4D70-8CB5-4AB359FF127D}.Debug|x86.ActiveCfg = Debug
+		{82657840-96EE-4D70-8CB5-4AB359FF127D}.Release|Any CPU.ActiveCfg = Release
+		{82657840-96EE-4D70-8CB5-4AB359FF127D}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27935941-AC5D-465B-B31B-4AB34BF382E1}
+	EndGlobalSection
+EndGlobal
