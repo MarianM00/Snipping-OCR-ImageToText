@@ -1,0 +1,1 @@
+# Snipping-OCR-ImageToText
