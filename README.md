@@ -5,7 +5,7 @@ This app helps you take text from an image just by selecting what you want to co
 
 ## 🍿 Video
 
-[![Watch the video](https://img.youtube.com/vi/NnxWyDWD6cE/maxresdefault.jpg)](https://www.youtube.com/watch?v=NnxWyDWD6cE)
+[![Watch the video](https://img.youtube.com/vi/NnxWyDWD6cE/maxresdefault.jpg)](https://www.youtube.com/watch?v=lcGGc6KDM8g)
 
 
 ## Project structure
